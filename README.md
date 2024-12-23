@@ -71,8 +71,4 @@ This solver automatically computes valid solutions for Battleship Solitaire puzz
 - **Scalable**: Can handle puzzles of varying grid sizes within the time limit.  
 
 ## Requirements  
-- Python 3.x  
-- Compatible with the teach.cs server environment for testing.  
-
-## Acknowledgments  
-This project leverages concepts from constraint satisfaction and AI-based search algorithms. Special thanks to the course team for providing starter code and guidance.
+- Python 3.9+   
