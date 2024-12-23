@@ -21,7 +21,7 @@ This solver automatically computes valid solutions for Battleship Solitaire puzz
 3. **Search Techniques**:  
    The solver applies CSP techniques like:
    - **Backtracking Search**: Efficiently explores potential solutions.
-   - **Constraint Propagation**: Uses forward checking and AC-3 (arc consistency) to reduce the search space.
+   - **Constraint Propagation**: The **AC-3 GAC (Generalized Arc Consistency) algorithm** is employed to reduce the search space by ensuring all constraints between variables are satisfied. This improves efficiency by pruning invalid states early in the solving process.
    - **Heuristics**: Implements strategies like Minimum Remaining Value and Least Constraining Value to optimize variable and value selection.
 
 4. **Output Generation**:  
