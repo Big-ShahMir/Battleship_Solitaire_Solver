@@ -48,13 +48,9 @@ This solver automatically computes valid solutions for Battleship Solitaire puzz
     32100
    
     000000
-   
     0000S0
-   
     000000
-   
     000000
-   
     00000.    
 
     000000   
