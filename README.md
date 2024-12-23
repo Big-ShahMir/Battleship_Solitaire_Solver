@@ -40,7 +40,8 @@ This solver automatically computes valid solutions for Battleship Solitaire puzz
    - Third line: Number of each ship type (submarines, destroyers, cruisers, battleships, carriers).  
    - Remaining lines: NxN grid representing the puzzle.  
 
-   Example input:  
+   Example input:
+   ```
     211222
    
     140212
@@ -59,6 +60,7 @@ This solver automatically computes valid solutions for Battleship Solitaire puzz
 
     000000   
 
+   ```
 3. Run the solver with:  
     python3 battle.py --inputfile <input_file> --outputfile <output_file>
 
