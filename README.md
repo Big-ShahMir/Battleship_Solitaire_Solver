@@ -65,6 +65,7 @@ This solver automatically computes valid solutions for Battleship Solitaire puzz
 4. The output file will contain the solved grid.
 
     Example output:
+   
    <>....
    
    ....S.
