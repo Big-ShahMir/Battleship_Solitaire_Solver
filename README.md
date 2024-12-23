@@ -41,7 +41,7 @@ This solver automatically computes valid solutions for Battleship Solitaire puzz
    - Remaining lines: NxN grid representing the puzzle.  
 
    Example input:  
-    211222
+    211222 \n
     140212
     32100
     000000
