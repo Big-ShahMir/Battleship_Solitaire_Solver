@@ -41,20 +41,28 @@ This solver automatically computes valid solutions for Battleship Solitaire puzz
    - Remaining lines: NxN grid representing the puzzle.  
 
    Example input:  
-    211222 \n
+    211222
+   
     140212
+   
     32100
+   
     000000
+   
     0000S0
+   
     000000
+   
     000000
-    00000.
+   
+    00000.    
+
     000000   
 
-2. Run the solver with:  
+3. Run the solver with:  
     python3 battle.py --inputfile <input_file> --outputfile <output_file>
 
-3. The output file will contain the solved grid.
+4. The output file will contain the solved grid.
 
     Example output:
        <>....
