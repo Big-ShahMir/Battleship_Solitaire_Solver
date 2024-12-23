@@ -48,9 +48,13 @@ This solver automatically computes valid solutions for Battleship Solitaire puzz
     32100
    
     000000
+   
     0000S0
+   
     000000
+   
     000000
+   
     00000.    
 
     000000   
@@ -61,12 +65,17 @@ This solver automatically computes valid solutions for Battleship Solitaire puzz
 4. The output file will contain the solved grid.
 
     Example output:
-       <>....
-       ....S.
-       .^....
-       .M...S
-       .v.^..
-       ...v.S
+   <>....
+   
+   ....S.
+   
+   .^....
+   
+   .M...S
+   
+   .v.^..
+   
+   ...v.S
 
 ## Key Features  
 - **Dynamic CSP Solver**: Integrates backtracking search, forward checking, and AC-3 for constraint satisfaction.  
