@@ -62,12 +62,13 @@ This solver automatically computes valid solutions for Battleship Solitaire puzz
 
    ```
 3. Run the solver with:  
+    ```
     python3 battle.py --inputfile <input_file> --outputfile <output_file>
-
+   ```
 4. The output file will contain the solved grid.
 
     Example output:
-   
+   ```
    <>....
    
    ....S.
@@ -79,6 +80,7 @@ This solver automatically computes valid solutions for Battleship Solitaire puzz
    .v.^..
    
    ...v.S
+   ```
 
 ## Key Features  
 - **Dynamic CSP Solver**: Integrates backtracking search, forward checking, and AC-3 for constraint satisfaction.  
